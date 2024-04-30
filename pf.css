@@ -336,6 +336,9 @@ overflow: hidden;
         display: block;
         margin-right: 30px;
     }
+
+    .ca::hover{
+        font-size:20px}
      
     
     
