@@ -337,8 +337,11 @@ overflow: hidden;
         margin-right: 30px;
     }
 
-    .ca::hover{
-        font-size:20px}
+    .ca:hover{
+        border-bottom: 2px solid #fff1f1;
+    border: #fff1f1 2px solid;
+font-size: 14px;
+}
      
     
     
